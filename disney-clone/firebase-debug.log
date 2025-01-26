@@ -1,0 +1,21 @@
+[debug] [2024-10-25T10:18:47.459Z] ----------------------------------------------------------------------
+[debug] [2024-10-25T10:18:47.461Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Gebruiker\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-10-25T10:18:47.461Z] CLI Version:   13.23.0
+[debug] [2024-10-25T10:18:47.461Z] Platform:      win32
+[debug] [2024-10-25T10:18:47.461Z] Node Version:  v21.6.0
+[debug] [2024-10-25T10:18:47.461Z] Time:          Fri Oct 25 2024 12:18:47 GMT+0200 (Midden-Europese zomertijd)
+[debug] [2024-10-25T10:18:47.462Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-25T10:18:47.468Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-25T10:18:47.468Z] > authorizing via signed-in user (seize.the.day102306@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Gebruiker\Desktop\Disney+\disney-clone
+
